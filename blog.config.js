@@ -2,7 +2,7 @@ const BLOG = {
   title: 'NotLanding',
   author: 'Trenton Tu',
   email: 'me@notlanding.company',
-  #link: 'https://nobelium.vercel.app',
+  //link: 'https://nobelium.vercel.app',
   description: 'not landing.',
   lang: 'zh-CN',
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -16,7 +16,7 @@ const BLOG = {
   showAbout: true, // WIP
   showArchive: true, // WIP
   autoCollapsedNavBar: false, // the automatically collapsed navigation bar
-  #socialLink: 'https://twitter.com/craigaryhart',
+  //socialLink: 'https://twitter.com/craigaryhart',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
