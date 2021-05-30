@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'NotLanding',
+  title: '不着陆',
   author: 'Trenton Tu',
   email: 'me@notlanding.company',
   //link: 'https://nobelium.vercel.app',
