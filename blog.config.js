@@ -1,10 +1,10 @@
 const BLOG = {
   title: '不着陆',
-  author: 'Trenton Tu',
-  email: 'me@notlanding.company',
+  author: 'keithkt',
+  email: 'keith@notlanding.company',
   //link: 'https://nobelium.vercel.app',
   description: 'not landing.',
-  lang: 'zh-CN',
+  lang: 'En',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
