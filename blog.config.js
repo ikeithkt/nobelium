@@ -1,6 +1,6 @@
 const BLOG = {
-  title: '不着陆',
-  author: 'keithkt',
+  title: '不着陆观察',
+  author: '愷時',
   email: 'keith@notlanding.company',
   //link: 'https://nobelium.vercel.app',
   description: 'not landing.',
